@@ -3,4 +3,4 @@
 # __date__ = 2020.11.8
 # __desc__ = git another demo
 
-print("xiaoliagns ok loves chipscoco,is that right?","no,xiaoliang loves mao")
+print("xiaoliagns loves chipscoco,is that right?","no,xiaoliang loves mao")
